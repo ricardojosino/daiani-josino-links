@@ -21,6 +21,7 @@ html
 body
 {
     margin: 0;
+    padding-bottom: 50px;
 }
 
 @media(max-width: 768px)
