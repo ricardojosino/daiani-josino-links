@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+    @font-face {
+        font-family: 'lato';
+        src: local('lato'), url("../fonts/Lato-Light.ttf");
+        font-weight: 300;
+        font-display: swap;
+
+    }
+
+    @font-face {
+        font-family: 'lato';
+        src: local('lato'), url("../fonts/Lato-Regular.ttf");
+        font-weight: 400;
+        font-display: swap;
+    }
+
+    
+    @font-face {
+        font-family: 'lato';
+        src: local('lato'), url("../fonts/Lato-Bold.ttf");
+        font-weight: bold;
+        font-display: swap;
+    }
+
+}
