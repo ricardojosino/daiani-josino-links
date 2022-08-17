@@ -21,9 +21,9 @@ module.exports = {
       },
 
       colors: {
-        'color01': '#6666FF',
-        'color02': '#FF3399',
-        'color03': '#343434',
+        'color01': '#034D5A',
+        'color02': '#CBA340',
+        'color03': '#1A1A1A',
         'color04': '#F4F4F4',
         'color05': '#F3F3F3',
         'color06': '#FFFFFF',
